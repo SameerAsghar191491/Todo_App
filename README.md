@@ -34,13 +34,8 @@ This project is created purely for learning purposes.
 
 Focuses on understanding UI building, list rendering, and state updates.
 
-Future improvements:
+All code is manually written with full understanding of StateManagement and SqfLite Database.
 
-Add task completion (checkbox)
-
-Add local storage using SqfLite
-
-Add categories and filters
 
 ---
 
