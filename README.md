@@ -2,7 +2,6 @@
 
 A simple and beginner-friendly To-Do application built with Flutter. This project focuses on learning stateful widgets, handling user input, and managing dynamic lists.
 
----
 
 ## ✅ Features
 
@@ -36,12 +35,10 @@ Focuses on understanding UI building, list rendering, and state updates.
 
 All code is manually written with full understanding of StateManagement and SqfLite Database.
 
-Integerated Database (SqfLite) and StateMangement on my Own also added edit functionality to edit the todo and keep TODOS/DATA in mobile on closing or reopening the app like real word application.
+Integerated Database (SqfLite) and StateMangement on my Own also added edit functionality and snackbar messages to edit the todo, getting notification of addition, updation and deletion and to keep TODOS/DATA in mobile on closing or reopening the app like real word application.
 
 
----
 
 ## 🧑‍💻 Author
 
-Sameer Asghar
-GitHub Profile
+Mirza Sameer Asghar
