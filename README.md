@@ -36,6 +36,8 @@ Focuses on understanding UI building, list rendering, and state updates.
 
 All code is manually written with full understanding of StateManagement and SqfLite Database.
 
+Integerated Database (SqfLite) and StateMangement on my Own also added edit functionality to edit the todo and keep TODOS/DATA in mobile on closing or reopening the app like real word application.
+
 
 ---
 
