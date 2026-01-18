@@ -9,11 +9,13 @@ A simple and beginner-friendly To-Do application built with Flutter. This projec
 
 - Display tasks in a clean and scrollable list
 
-- Delete tasks instantly
+- Delete & Edit tasks instantly
+
+- Mark completed by simply clicking on it
 
 - Minimal and user-friendly interface
 
-- Great project for understanding StatefulWidget and UI updates
+- Great project for learning Local Database, StateMangement & UI/UX
 
 ---
 
